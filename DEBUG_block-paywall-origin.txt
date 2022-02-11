@@ -1,0 +1,39 @@
+heise.de#$#svg.a-article-meta__heiseplus-logo:upward(article) { background-color: pink!important; }
+heise.de#$#img[alt="heise+"]:upward(a-module) { background-color: pink!important; }
+heise.de#$#path[d="M0 0h130v60H0z"]:upward(article) { background-color: pink!important; }
+
+spiegel.de#$#span[data-flag-name="Spplus-paid"]:upward(article) { background-color: pink!important; }
+spiegel.de#$#span[data-flag-name="Spplus-paid"]:upward(li) { background-color: pink!important; }
+
+muehlacker-tagblatt.de#$#img[src="/Layout/Custom/Images/mt-plus.svg"]:upward(article) { background-color: pink!important; }
+
+rp-online.de#$#em.park-icon-paid:upward(article) { background-color: pink!important; }
+
+aachener-nachrichten.de#$#em.park-icon-paid:upward(li) { background-color: pink!important; }
+aachener-nachrichten.de#$#span.park-opener__kicker > em.park-icon-paid:upward(div) { background-color: pink!important; }
+
+aachener-zeitung.de#$#em.park-icon-paid:upward(li) { background-color: pink!important; }
+aachener-zeitung.de#$#span.park-opener__kicker > em.park-icon-paid:upward(div) { background-color: pink!important; }
+
+abendblatt.de#$#.ispayedcontent:upward(article) { background-color: pink!important; }
+
+augsburger-allgemeine.de#$#span.aa-plus:upward(a) { background-color: pink!important; }
+
+badische-zeitung.de#$#img[alt="BZ-Plus"]:upward(div) { background-color: pink!important; }
+
+boyens-medien.de#$#span.badgePlus:upward(article) { background-color: pink!important; }
+
+braunschweiger-zeitung.de#$#.ispayedcontent:upward(article) { background-color: pink!important; }
+
+!hide the adguard blocker
+buerstaedter-zeitung.de#?#div#adDefendBG
+buerstaedter-zeitung.de#?#div#adDefendWrapper
+buerstaedter-zeitung.de#$#body { overflow: scroll!important; }
+
+buerstaedter-zeitung.de#$#img[alt="plus"]:upward(article) { background-color: pink!important; }
+
+cnv-medien.de#$#i.icon-smartplus:upward(6) { background-color: pink!important; }
+
+cz.de#$#span.pdb-parts-paidcontent-freeuntilbadge_bigteaser-item:upward(5) { background-color: pink!important; padding:10px!important }
+cz.de#$#span.pdb-parts-paidcontent-freeuntilbadge:upward(4) { background-color: pink!important; }
+
